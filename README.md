@@ -1,6 +1,7 @@
 
 <br/> </br>
 
+----------------------------------
 # **Weichen Wang's Customized Version of JWST Pipeline**
 
 This is a modified version of the [JWST Calibration Pipeline](https://github.com/spacetelescope/jwst),
@@ -12,8 +13,11 @@ This version was developed for [**JWST Observing Program GO1835**](https://www.s
 While the custom pipeline has not been presented in full details by any publication so far, you can refer to [this paper](https://arxiv.org/abs/2601.20473) for a brief introduction.
 We will provide a complete documentation and description once the project is finished in the near future. 
 
-
 <br/> </br>
+
+----------------------------------
+## Here begins the original documentation content.
+
 
 <a href="https://stsci.edu">
   <img src="docs/_static/stsci_logo.png" alt="STScI Logo" width="15%" style="margin-left: auto;"/>
@@ -24,7 +28,7 @@ We will provide a complete documentation and description once the project is fin
 </a>
 
 
-# Here begins the original documentation content.
+
 
 
 
