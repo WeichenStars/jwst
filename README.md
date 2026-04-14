@@ -1,3 +1,20 @@
+
+<br/> </br>
+
+# **Weichen Wang's Customized Version of JWST Pipeline**
+
+This is a modified version of the [JWST Calibration Pipeline](https://github.com/spacetelescope/jwst),
+designed to deliver cleaner and more sensitive detection of **extended, faint emission lines**
+from galaxies or the CGM/IGM, using **deep NIRSpec MSA data with multiple exposures**.
+
+This version was developed for [**JWST Observing Program GO1835**](https://www.stsci.edu/jwst-program-info/program/?program=1835), but will be made applicable to other similar NIRSpec MSA programs.
+
+While the custom pipeline has not been presented in full details by any publication so far, you can refer to [this paper](https://arxiv.org/abs/2601.20473) for a brief introduction.
+We will provide a complete documentation and description once the project is finished in the near future. 
+
+
+<br/> </br>
+
 <a href="https://stsci.edu">
   <img src="docs/_static/stsci_logo.png" alt="STScI Logo" width="15%" style="margin-left: auto;"/>
   <img src="docs/_static/stsci_name.png" alt="STScI Logo" width="68%"/>
@@ -5,18 +22,6 @@
 <a href="https://science.nasa.gov/mission/webb/">
   <img src="docs/_static/jwst_logo.png" alt="JWST Logo" width="15%" style="margin-right: auto;"/>
 </a>
-
-
-# **Weichen Wang's Customized Version of JWST Pipeline**
-
-This is a modified version of the [JWST Calibration Pipeline](https://github.com/spacetelescope/jwst),
-designed to deliver cleaner and more sensitive detection of **extended, faint emission lines**
-from galaxies or the CGM/IGM, using **NIRSpec MSA data with multiple exposures**.
-
-This version was developed for **JWST Observing Program GO1835**, but is applicable to other similar NIRSpec MSA programs.
-
-While the custom pipeline has not been presented in full details by any publication so far, you can refer to [this paper](https://arxiv.org/abs/2601.20473) for a brief introduction.
-We will provide a complete documentation and description once the project is finished in the near future. 
 
 
 # Here begins the original documentation content.
